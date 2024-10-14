@@ -1,5 +1,4 @@
 
-
 const SignupComponent = () => {
   return (
     <div className='h-auto w-auto items-center justify-center'>
